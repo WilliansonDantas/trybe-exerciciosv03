@@ -1,0 +1,14 @@
+* {
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  margin: auto;
+  text-align: center;
+}
+
+. inicial {
+  padding: 30px;
+}
+
+. limitar {
+  resize: none;
+}
